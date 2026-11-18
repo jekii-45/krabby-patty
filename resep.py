@@ -1,0 +1,8 @@
+print("Resep Krabby Patty")
+print("------------------")
+print("Roti")
+print("Daging")
+print("Daun Bawang")
+print("Tomat")
+print("Selada")
+print("Acar")
