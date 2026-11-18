@@ -1,0 +1,6 @@
+print("Karyawan Krabby-patty")
+print("--------------------")
+print("Sponsbob")
+print("Squidward")
+print("Mr Krabs")
+print("Patrick Star")
